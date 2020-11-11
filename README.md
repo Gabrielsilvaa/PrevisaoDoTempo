@@ -1,2 +1,2 @@
 # PrevisaoDoTempo
-Previsao do tempo com openweathermap
+Previsao do tempo com openweathermap e Spring Boot
